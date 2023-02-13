@@ -1,0 +1,9 @@
+pandas
+numpy
+sklearn
+nltk
+matplotlib
+joblib
+json
+flask
+random
